@@ -1,0 +1,25 @@
+
+> init
+<<<
+> branch new
+<<<
+> branch xxx
+<<<
+> branch zzz
+<<<
+> status
+=== Branches ===
+*master
+new
+xxx
+zzz
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<

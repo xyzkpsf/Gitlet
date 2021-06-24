@@ -1,0 +1,7 @@
+> init
+<<<
++ 1.txt 1.txt
++ 2.txt 2.txt
+> add 1.txt 2.txt
+Incorrect operands.
+<<<

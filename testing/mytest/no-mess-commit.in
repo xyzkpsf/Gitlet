@@ -1,0 +1,8 @@
+>init
+<<<
++ 1.txt 1.txt
+> add 1.txt
+<<<
+> commit
+> Please enter a commit message.
+<<<

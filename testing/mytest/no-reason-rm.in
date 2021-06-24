@@ -1,0 +1,6 @@
+>init
+<<<
++ 1.txt 1.txt
+> rm 1.txt
+> No reason to remove the file.
+<<<

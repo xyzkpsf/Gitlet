@@ -1,0 +1,13 @@
+java gitlet.Main init
+gitlet.Main add 1
+gitlet.Main add 2
+gitlet.Main add 3
+gitlet.Main add 4
+gitlet.Main add 5
+gitlet.Main add 6
+gitlet.Main add 9
+
+
+
+
+gitlet.Main add 1

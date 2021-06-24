@@ -1,0 +1,11 @@
+> init
+<<<
++ 1.txt 1.txt
+> add 1.txt
+<<<
++ 1.txt 3.txt
+> commit "add 1"
+<<<
+> checkout -- 1.txt
+<<<
+= 1.txt 1.txt

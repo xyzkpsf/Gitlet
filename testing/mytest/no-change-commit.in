@@ -1,0 +1,6 @@
+>init
+<<<
++ 1.txt 1.txt
+> commit mess
+> No changes added to the commit.
+<<<

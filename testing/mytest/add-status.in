@@ -1,0 +1,23 @@
+> init
+<<<
++ 1.txt 1.txt
+> add 1.txt
+<<<
++ 2.txt 2.txt
+> add 2.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+1.txt
+2.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
